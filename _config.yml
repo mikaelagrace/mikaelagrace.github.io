@@ -1,0 +1,33 @@
+# Your Name or Company
+title: Mikaela Grace 
+
+# Description of your website. This is used for social sharing.
+description:  A website written by and about Mikaela Grace.
+
+# A brief blurb about yourself
+content: I'll tell you when you're older. Which is to say, this is not finished, come back later for a lil blurb about Mikaela
+
+# Add your social links
+social:
+  - platform: github
+    url: https://github.com/mikaelagrace
+  - platform: facebook
+    url: https://facebook.com/mikaelagrace
+  - platform: publications
+    url: https://ieeexplore.ieee.org/document/8639654
+  - platform: linkedin
+    url: https://linkedin.com/mikaelagrace
+
+# General settings
+url: https://mikaela.dev
+# baseurl: "/uni" 
+markdown: kramdown
+sharing_image: paint-background.jpg
+
+#### LAYOUT OPTIONS #####
+
+# Half layout
+half_side: right
+
+# Full layout
+full_text_position: center # left, right or center
