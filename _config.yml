@@ -5,19 +5,19 @@ title: Mikaela Grace
 description:  A website written by and about Mikaela Grace.
 
 # A brief blurb about yourself
-content: I'll tell you when you're older. Which is to say, this is not finished, come back later for a lil blurb about Mikaela
-
+content: NYC-based software engineer. <br> <br> Prior work in acoustic modeling and detection of emotion in music. 
+# <br> Using machine learning to derive meaning from sound. <br>
 # Add your social links
 social:
+  #   - platform: instagram
+  #   url: https://instagram.com/_mikaela_grace
   - platform: github
     url: https://github.com/mikaelagrace
-  - platform: facebook
-    url: https://facebook.com/mikaelagrace
+  - platform: linkedin
+    url: https://linkedin.com/in/mikaelagrace
   - platform: publications
     url: https://ieeexplore.ieee.org/document/8639654
-  - platform: linkedin
-    url: https://linkedin.com/mikaelagrace
-
+  
 # General settings
 url: https://mikaela.dev
 # baseurl: "/uni" 
@@ -30,4 +30,5 @@ sharing_image: paint-background.jpg
 half_side: right
 
 # Full layout
-full_text_position: center # left, right or center
+full_text_position: right # left, right or center
+
